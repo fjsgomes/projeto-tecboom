@@ -1,0 +1,1 @@
+Projeto Tec Boom é um blog que fala sobre eletrônicos e atualidades.
