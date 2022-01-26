@@ -38,7 +38,7 @@ ul {
 .container {    
 	display: flex;	
 	margin: auto;   
-	justify-content: center;	
+	justify-content: center;
 }
 
 .area-postagens {
@@ -65,7 +65,7 @@ ul {
 }
 
 .div1 {
-	display: flex;		
+	display: flex;	
 }
 
 .div2 {
@@ -114,6 +114,8 @@ ul {
 .espacamento {
 	padding-top: 10px;
 }
+
+
 
 /*RODAPÉ*/
 
@@ -172,10 +174,12 @@ header a:link, a:visited {
 }
 
 /*FORMATAÇÃO DO MENU LATERAL*/
-
-.line:hover {
+ 
+.line:hover,
+.espacamento:hover,
+.leia:hover {
 	color: #6e6d6d;
-	text-decoration: underline;	
+	text-decoration: underline;
 }
 
 .line {
